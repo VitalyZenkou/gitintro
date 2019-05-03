@@ -5,7 +5,8 @@ public class SkazachyZamak {
     private static final String nameCustomer = "Zeka Gulis";
 
 
-    private void getMorkovka(int morkovka){
+    private int getMorkovka(int morkovka){
+        return morkovka+2;
     }
 
     private static void koni(){
