@@ -7,4 +7,8 @@ public class SkazachyZamak {
 
     private void getMorkovka(int morkovka){
     }
+
+    private static void koni(){
+        System.out.println("Resque koni!");
+    }
 }
