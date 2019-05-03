@@ -7,4 +7,8 @@ public class SkazachyZamak {
     public static String getNameCustomer() {
         return "I like morkovka shura";
     }
+
+    private static void koni(){
+        System.out.println("Resque koni!");
+    }
 }
